@@ -37,7 +37,7 @@ Si al final de eso veis ```user=>``` es que leiningren ha hecho su trabajo. Enho
 
 ---
 
-*** Extra: instala LightTable ***
+### Extra: instala LightTable
 
 LightTable es un editor de texto (entre otras cosas) pensado para Clojure. Descárgalo en [su web](http://lighttable.com/). En Mac es necesario mover el fichero descargado a ```usr/local/bin``` si quieres usarlo desde la consola. Truco: arrastra un fichero del finder a la consola para ver su nombre completo, en mi caso:
 
@@ -45,7 +45,7 @@ LightTable es un editor de texto (entre otras cosas) pensado para Clojure. Desc�
 mv /Users/Dani/Downloads/Light Table/light /usr/local/bin
 ```
 
-*** Extra: añade Overtone ***
+### Extra: añade Overtone
 
 Idea para darle emoción: edita el fichero ```project.clj``` y añade (Overtone)[http://overtone.github.io/] como dependencia:
 
@@ -66,7 +66,7 @@ lein repl
 
 Más información aquí: https://github.com/overtone/overtone/wiki/Getting-Started
 
-*** Extra: la consola ***
+### Extra: la consola
 
 - ¿Es necesario usar la línea de comando?
 - Si
