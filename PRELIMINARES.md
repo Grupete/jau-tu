@@ -12,7 +12,7 @@ Un par de cosillas:
 
 En linux, Java viene instalado, en MacOSX puedes encontrar [el instalador aquí](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-**En vez de instalar Clojure, vamos a instalar otro programa que instala Clojure** (ese programa es leiningen). Esta es la típica solución informática: en vez de resolver un problema, haz un programa que lo resuelva, o dicho de otro modo: cualquier problema informático se resuelve añadiendo una capa de indirección (también conocido como "cualquier problema de rendimiento se resuelve quitando una capa de indirección"). En cualquier caso, instalemos leiningen utilizando la consola (aka 'línea de comando', ver abajo):
+**En vez de instalar Clojure, vamos a instalar otro programa que instala Clojure** (ese programa es leiningen). Esta es la típica solución informática: en vez de resolver un problema, haz un programa que lo resuelva, o dicho de otro modo: cualquier problema informático se resuelve añadiendo una capa de [indirección](http://es.wikipedia.org/wiki/Indirecci%C3%B3n) (también conocido como "cualquier problema de rendimiento se resuelve quitando una capa de indirección"). En cualquier caso, instalemos leiningen utilizando la consola (aka 'línea de comando', ver abajo):
 
 ```
 wget https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
